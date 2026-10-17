@@ -1,24 +1,5 @@
 Raving Rabbids: Travel in Time  
-[![Build Status]][actions] [![Code Progress]][progress] [![Data Progress]][progress] [![Discord Badge]][discord]
 =============
-
-<!--
-Replace with your repository's URL.
--->
-[Build Status]: 
-[actions]: 
-<!--
-decomp.dev progress badges
-See https://decomp.dev/api for an API overview.
--->
-[Code Progress]: 
-[Data Progress]: 
-[progress]: 
-<!--
-Replace with your Discord server's ID and invite URL.
--->
-[Discord Badge]: 
-[discord]: 
 
 A work-in-progress decompilation of Raving Rabbids: Travel in Time.
 
